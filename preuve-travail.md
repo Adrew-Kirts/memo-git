@@ -95,3 +95,13 @@ origin	git@github.com:Adrew-Kirts/recette-cookie.git (push)
 ```
 
 
+### 2.1
+
+Crééé une nouvelle branch "recipe_history"
+- Créé un fichier, pushé avec commit message "xxxxxx fixes #1" 
+! Important: entre fixes et #nr il faut un espace ! 
+
+### 2.2
+
+Un conflit dans Git survient quand deux branches distinces on modifié la même ligne dans un fichier, ou quand un fichier a été supprimé dans une branche, mais modifié dans l'autre. 
+
